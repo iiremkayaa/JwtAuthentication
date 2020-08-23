@@ -1,0 +1,13 @@
+E:\C#Project\JwtProject\Project.JwtProject.Business\bin\Debug\netcoreapp3.1\Project.JwtProject.Business.deps.json
+E:\C#Project\JwtProject\Project.JwtProject.Business\bin\Debug\netcoreapp3.1\Project.JwtProject.Business.dll
+E:\C#Project\JwtProject\Project.JwtProject.Business\bin\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.dll
+E:\C#Project\JwtProject\Project.JwtProject.Business\bin\Debug\netcoreapp3.1\Project.JwtProject.Entities.dll
+E:\C#Project\JwtProject\Project.JwtProject.Business\bin\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.pdb
+E:\C#Project\JwtProject\Project.JwtProject.Business\bin\Debug\netcoreapp3.1\Project.JwtProject.Entities.pdb
+E:\C#Project\JwtProject\Project.JwtProject.Business\obj\Debug\netcoreapp3.1\Project.JwtProject.Business.csprojAssemblyReference.cache
+E:\C#Project\JwtProject\Project.JwtProject.Business\obj\Debug\netcoreapp3.1\Project.JwtProject.Business.AssemblyInfoInputs.cache
+E:\C#Project\JwtProject\Project.JwtProject.Business\obj\Debug\netcoreapp3.1\Project.JwtProject.Business.AssemblyInfo.cs
+E:\C#Project\JwtProject\Project.JwtProject.Business\obj\Debug\netcoreapp3.1\Project.JwtProject.Business.csproj.CopyComplete
+E:\C#Project\JwtProject\Project.JwtProject.Business\bin\Debug\netcoreapp3.1\Project.JwtProject.Business.pdb
+E:\C#Project\JwtProject\Project.JwtProject.Business\obj\Debug\netcoreapp3.1\Project.JwtProject.Business.dll
+E:\C#Project\JwtProject\Project.JwtProject.Business\obj\Debug\netcoreapp3.1\Project.JwtProject.Business.pdb

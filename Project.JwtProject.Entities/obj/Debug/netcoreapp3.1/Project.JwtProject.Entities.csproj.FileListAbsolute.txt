@@ -1,0 +1,9 @@
+E:\C#Project\JwtProject\Project.JwtProject.Entities\bin\Debug\netcoreapp3.1\Project.JwtProject.Entities.deps.json
+E:\C#Project\JwtProject\Project.JwtProject.Entities\bin\Debug\netcoreapp3.1\Project.JwtProject.Entities.dll
+E:\C#Project\JwtProject\Project.JwtProject.Entities\bin\Debug\netcoreapp3.1\Project.JwtProject.Entities.pdb
+E:\C#Project\JwtProject\Project.JwtProject.Entities\obj\Debug\netcoreapp3.1\Project.JwtProject.Entities.csprojAssemblyReference.cache
+E:\C#Project\JwtProject\Project.JwtProject.Entities\obj\Debug\netcoreapp3.1\Project.JwtProject.Entities.AssemblyInfoInputs.cache
+E:\C#Project\JwtProject\Project.JwtProject.Entities\obj\Debug\netcoreapp3.1\Project.JwtProject.Entities.AssemblyInfo.cs
+E:\C#Project\JwtProject\Project.JwtProject.Entities\obj\Debug\netcoreapp3.1\Project.JwtProject.Entities.csproj.CoreCompileInputs.cache
+E:\C#Project\JwtProject\Project.JwtProject.Entities\obj\Debug\netcoreapp3.1\Project.JwtProject.Entities.dll
+E:\C#Project\JwtProject\Project.JwtProject.Entities\obj\Debug\netcoreapp3.1\Project.JwtProject.Entities.pdb

@@ -1,0 +1,15 @@
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\bin\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.deps.json
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\bin\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.dll
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\obj\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.csprojAssemblyReference.cache
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\obj\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.AssemblyInfoInputs.cache
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\obj\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.AssemblyInfo.cs
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\bin\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.runtimeconfig.json
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\bin\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.runtimeconfig.dev.json
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\obj\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.genruntimeconfig.cache
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\bin\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.pdb
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\bin\Debug\netcoreapp3.1\Project.JwtProject.Entities.dll
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\bin\Debug\netcoreapp3.1\Project.JwtProject.Entities.pdb
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\obj\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.csproj.CopyComplete
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\obj\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.dll
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\obj\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.pdb
+E:\C#Project\JwtProject\Project.JwtProject.DataAccess\obj\Debug\netcoreapp3.1\Project.JwtProject.DataAccess.csproj.CoreCompileInputs.cache
